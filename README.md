@@ -1,5 +1,3 @@
-<img width="100%" src="https://user-images.githubusercontent.com/87814233/195255783-24a3f5b5-a2bf-4a5f-8aaa-c312a2d306c2.gif"/>
-
 ![maeseok GitHub stats](https://github-readme-stats.vercel.app/api?username=maeseok&show_icons=true&theme=highcontrast) 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hs1144)](https://solved.ac/hs1144)
