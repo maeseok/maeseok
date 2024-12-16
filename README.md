@@ -78,24 +78,27 @@
 <br>
 <!-- Certifications -->
 <h3 align="left">📜 Certifications 📜</h3>
-<table style="width: 100%; margin-left: 0; text-align: left;">
-  <tr>
-    <td><strong>네트워크관리사 2급</strong></td>
-    <td>ICQA (2020.07.07)</td>
-  </tr>
-  <tr>
-    <td><strong>컴퓨터활용능력 1급</strong></td>
-    <td>대한상공회의소 (2022.07.15)</td>
-  </tr>
-  <tr>
-    <td><strong>데이터분석 준전문가 (ADsP)</strong></td>
-    <td>한국데이터산업진흥원 (2023.03.24)</td>
-  </tr>
-  <tr>
-    <td><strong>SQL 개발자 (SQLD)</strong></td>
-    <td>한국데이터산업진흥원 (2023.04.14)</td>
-  </tr>
-</table>
+<div style="text-align: left;">
+  <table style="width: 100%; margin: 0;">
+    <tr>
+      <td><strong>네트워크관리사 2급</strong></td>
+      <td>ICQA (2020.07.07)</td>
+    </tr>
+    <tr>
+      <td><strong>컴퓨터활용능력 1급</strong></td>
+      <td>대한상공회의소 (2022.07.15)</td>
+    </tr>
+    <tr>
+      <td><strong>데이터분석 준전문가 (ADsP)</strong></td>
+      <td>한국데이터산업진흥원 (2023.03.24)</td>
+    </tr>
+    <tr>
+      <td><strong>SQL 개발자 (SQLD)</strong></td>
+      <td>한국데이터산업진흥원 (2023.04.14)</td>
+    </tr>
+  </table>
+</div>
+
 
 
 <!-- Projects -->
