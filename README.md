@@ -3,9 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Mae%20Seok&fontSize=90)  
 
 
-<br><br>
-
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <!-- Main Stack -->
@@ -173,26 +170,30 @@
 
 <!-- About Me -->
 <h3 align="left">⭐ About me ⭐</h3>
+
+<!-- Contact -->
 <div align="left">
   <a href="mailto:gudtjr3638@mju.ac.kr">
-    <img
-      src="https://img.shields.io/badge/gudtjr3638@mju.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/gudtjr3638@mju.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp;
   </a>
   <a href="https://blog.naver.com/mae_seok">
-    <img
-      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp;
   </a>
 </div>
 
-<div align="center">
+<!-- GitHub Stats, Most Used Languages, and BOJ Badge -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <!-- GitHub Stats -->
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=maeseok&show_icons=true&theme=default" />
-  
+  <div>
+    <img width="300px" src="https://github-readme-stats.vercel.app/api?username=maeseok&show_icons=true&theme=default" />
+  </div>
   <!-- Most Used Languages -->
-  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeseok&layout=compact&langs_count=4&theme=default" />
+  <div>
+    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeseok&layout=compact&langs_count=4&theme=default" />
+  </div>
+  <!-- BOJ Badge -->
+  <div>
+    <img width="300px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs1144" />
+  </div>
 </div>
 
-<!-- Badge -->
-<div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs1144" />
-</div>
