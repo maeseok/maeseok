@@ -1,10 +1,9 @@
-![maeseok GitHub stats](https://github-readme-stats.vercel.app/api?username=maeseok&show_icons=true&theme=highcontrast) 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hs1144)](https://solved.ac/hs1144)
+
 
 
 <div align="center">
   <img width="800px" src="https://github.com/maeseok/maeseok/blob/master/logo_unscreen.gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=j-nary&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maeseok&show_icons=true&theme=radical" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" /> -->
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs1144" />
 </div>
