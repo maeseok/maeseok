@@ -16,11 +16,13 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/numpy-4d77cf?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/opencv-11557C?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;
+  <br>
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/matplotlib-336699?style=for-the-badge&logo=matplotlib&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/seaborn-39A6DF?style=for-the-badge&logoColor=white" />&nbsp;
+  <br>
   <img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/statsmodels-0062C7?style=for-the-badge&logoColor=white" />&nbsp;
@@ -35,6 +37,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
+  <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;
