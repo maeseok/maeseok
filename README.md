@@ -183,14 +183,6 @@
       src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp;
   </a>
 </div>
-<div align="left">
-  <a href="https://www.notion.so/">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
-  </a>
-  <a href="https://velog.io/">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" />
-  </a>
-</div>
 
 <div align="center">
   <!-- GitHub Stats -->
@@ -204,8 +196,3 @@
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs1144" />
 </div>
-
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{j-nary}" width="1000" height="250"/>
-</a>
