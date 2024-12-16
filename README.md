@@ -6,13 +6,6 @@
 <br><br>
 
 
-<div align="center">
-  <img width="800px" src="https://github.com/maeseok/maeseok/blob/master/logo_unscreen.gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=maeseok&show_icons=true&theme=radical" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" /> -->
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs1144" />
-</div>
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <!-- Main Stack -->
@@ -175,19 +168,31 @@
   </tbody>
 </table>
 
+<br>
+<br>
 
+<!-- About Me -->
+<h3 align="center">✨ About Me ✨</h3>
+<div align="center">
+  <img width="800px" src="https://github.com/maeseok/maeseok/blob/master/logo_unscreen.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maeseok&show_icons=true&theme=radical" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" /> -->
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs1144" />
+</div>
 
+<!-- Contact -->
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="gudtjr3638@mju.ac.kr">
+  <a href="mailto:gudtjr3638@mju.ac.kr">
     <img
-      src="https://img.shields.io/badge/gudtjr3638@mju.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/gudtjr3638@mju.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp;
   </a>
   <a href="https://blog.naver.com/mae_seok">
     <img
-      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp;
   </a>
 </div>
+
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{j-nary}" width="1000" height="250"/>
