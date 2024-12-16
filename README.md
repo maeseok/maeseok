@@ -69,6 +69,16 @@
 
 <br>
 
+<!-- Career -->
+<h3 align="left">💼 Career 💼</h3>
+<div align="left">
+  <ul>
+    <li><strong>명지대학교</strong> - 정보통신공학과 (2019.03 ~ 2025.06)<br></li>
+    <li><strong>국방통합데이터센터(DIDC)</strong> - 정보보호병 (2020.11.30 ~ 2022.05.29)<br></li>
+  </ul>
+</div>
+
+<br>
 <!-- Certifications -->
 <h3 align="left">📜 Certifications 📜</h3>
 <table>
