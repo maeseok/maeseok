@@ -123,7 +123,7 @@
       <td>제주어와 표준어 간 양방향 음성 번역 모델 생성 프로젝트</td>
       <td>KoBART</td>
       <td>
-        <a href="https://huggingface.co/Junhoee/Kobart-Jeju-translation">📈 모델</a><br>
+        <a href="https://huggingface.co/Junhoee/Kobart-Jeju-translation">📈모델</a><br>
         <a href="https://github.com/maeseok/Jeju_Translation.github.io">링크</a>
       </td>
     </tr>
