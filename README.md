@@ -99,7 +99,7 @@
       <th>기간</th>
       <th>설명</th>
       <th>사용 모델/기술</th>
-      <th>링크</th>
+      <th>링크  </th>
     </tr>
   </thead>
   <tbody>
