@@ -77,7 +77,7 @@
 
 <br>
 <!-- Certifications -->
-<h3 align="left">>📜 Certifications 📜</h3>
+<h3 align="left">📜 Certifications 📜</h3>
 <div align="left">
   <table>
     <tr>
