@@ -108,14 +108,14 @@
       <td>[2024.09.04 ~ 2024.12.04]</td>
       <td>음성 감정 분석, 답변 구성 평가 등 8가지 피드백을 제공하는 서비스 개발</td>
       <td>HuBERT, KoBERT, GRU, GPT(API)</td>
-      <td><a href="https://github.com/maeseok/AI-Interview-consultant">🔗링크</a></td>
+      <td><a href="https://github.com/maeseok/AI-Interview-consultant">링크</a></td>
     </tr>
     <tr>
       <td><strong>🏆 영화 기반 도서 추천 시스템</strong></td>
       <td>[2024.07.13 ~ 2024.08.30]</td>
       <td>2024 도서관 데이터 활용 공모전 최우수상 - 관심있는 영화와 비슷한 도서를 추천해주는 시스템 개발</td>
       <td>GNN</td>
-      <td><a href="https://github.com/maeseok/Movie-based-Book-Recommendation-System">🔗링크</a></td>
+      <td><a href="https://github.com/maeseok/Movie-based-Book-Recommendation-System">링크</a></td>
     </tr>
     <tr>
       <td><strong>제주어-표준어 양방향 음성 번역</strong></td>
@@ -124,7 +124,7 @@
       <td>KoBART</td>
       <td>
         <a href="https://huggingface.co/Junhoee/Kobart-Jeju-translation">📈 모델</a><br>
-        <a href="https://github.com/maeseok/Jeju_Translation.github.io">🔗링크</a>
+        <a href="https://github.com/maeseok/Jeju_Translation.github.io">링크</a>
       </td>
     </tr>
     <tr>
@@ -132,28 +132,28 @@
       <td>[2024.01.27 ~ 2024.02.24]</td>
       <td>R의 VAR 모델을 활용해 주식 포트폴리오 수익률 예측 및 VaR(Value at Risk) 측정</td>
       <td>VAR</td>
-      <td><a href="https://blog.naver.com/mae_seok/223373229427">🔗링크</a></td>
+      <td><a href="https://blog.naver.com/mae_seok/223373229427">링크</a></td>
     </tr>
     <tr>
       <td><strong>웹툰 실사화 배우 추천 시스템</strong></td>
       <td>[2023.11.11 ~ 2024.01.27]</td>
       <td>웹툰 캐릭터에 적합한 배우를 추천하는 캐스팅 지원 시스템</td>
       <td>ViT</td>
-      <td><a href="https://github.com/maeseok/Webtoon-live-action-actor-recommendation-system">🔗링크</a></td>
+      <td><a href="https://github.com/maeseok/Webtoon-live-action-actor-recommendation-system">링크</a></td>
     </tr>
     <tr>
       <td><strong>한국 증시와 미국 증시의 상관성 분석</strong></td>
       <td>[2023.05.03 ~ 2023.07.02]</td>
       <td>다변량 시계열 모델을 활용한 증시 상관성 분석</td>
       <td>VECM, VAR</td>
-      <td><a href="https://github.com/maeseok/Data-toyproject">🔗링크</a></td>
+      <td><a href="https://github.com/maeseok/Data-toyproject">링크</a></td>
     </tr>
     <tr>
       <td><strong>주식 시세 조회 및 포트폴리오 웹 서비스</strong></td>
       <td>[2021.12.06 ~ 2022.04.27]</td>
       <td>Flask와 MongoDB를 활용한 주식 시세 조회 및 포트폴리오 관리 웹 서비스 구현</td>
       <td>Python, Flask, Django, MongoDB</td>
-      <td><a href="https://github.com/maeseok/Finacne_portfolio_service">🔗링크</a></td>
+      <td><a href="https://github.com/maeseok/Finacne_portfolio_service">링크</a></td>
     </tr>
   </tbody>
 </table>
