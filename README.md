@@ -50,17 +50,6 @@
 
 <br>
 
-<!--
-<br>
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-</div>
--->
-
-<br>
-
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
@@ -68,8 +57,6 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/miricanvas-03C75A.svg?style=for-the-badge&logo=canvas&logoColor=white" />&nbsp
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />&nbsp;
@@ -81,6 +68,75 @@
 </div>
 
 <br>
+
+<!-- Certifications -->
+<h3 align="center">📜 Certifications 📜</h3>
+<div align="center">
+  <ul>
+    <li><strong>네트워크관리사 2급</strong> - ICQA (2020.07.07)</li>
+    <li><strong>컴퓨터활용능력 1급</strong> - 대한상공회의소(2022.07.15)</li>
+    <li><strong>데이터분석 준전문가(ADsP)</strong> - 한국데이터산업진흥원(2023.03.24)</li>
+    <li><strong>SQL 개발자(SQLD)</strong> - 한국데이터산업진흥원(2023.04.14)</li>
+  </ul>
+</div>
+
+
+<!-- Projects -->
+<h3 align="center">📂 Projects 📂</h3>
+<div align="center">
+  <ul>
+    <li>
+      <strong>AI 면접 컨설턴트</strong>  
+      <p>[2024.09.04 ~ 2024.12.04]</p>
+      <p>설명: 음성 감정 분석, 답변 구성 평가 등을 포함한 총 8가지 피드백을 제공하는 AI 면접 컨설턴트 서비스 개발</p>
+      <p>사용 모델: HuBERT, KoBERT, GRU, GPT(API)</p>
+      <p><a href="https://github.com/maeseok/AI-Interview-consultant">🔗 프로젝트 링크</a></p>
+    </li>
+    <li>
+      <strong>🏆영화 기반 도서 추천 시스템🏆</strong>
+      <p>[2024.07.13 ~ 2024.08.30]</p>
+      <p>설명: 2024 도서관 데이터 활용 공모전 최우수상 - 영화 기반 도서 추천 시스템</p>
+      <p>사용 모델: GNN</p>
+      <p><a href="https://github.com/maeseok/Movie-based-Book-Recommendation-System">🔗 프로젝트 링크</a></p>
+    </li>
+    <li>
+      <strong>제주어, 표준어 양방향 음성 번역</strong>
+      <p>[2024.03.04 ~ 2024.06.30]</p>
+      <p>설명: 제주어, 표준어 양방향 음성 번역 모델 생성 프로젝트</p>
+      <p>사용 모델: KoBART</p>
+      <p><a href="https://huggingface.co/Junhoee/Kobart-Jeju-translation">📈 개발 모델 링크</a></p>
+      <p><a href="https://github.com/maeseok/Jeju_Translation.github.io">🔗 프로젝트 링크</a></p>
+    </li>
+    <li>
+      <strong>포트폴리오의 수익률 예측과 Value at Risk 측정</strong>
+      <p>[2024.01.27 ~ 2024.02.24]</p>
+      <p>설명: R의 VAR 모델을 활용해 주식 포트폴리오의 수익률을 예측하고 VaR(Value at Risk)을 측정 </p>
+      <p>사용 모델: VAR</p>
+      <p><a href="https://blog.naver.com/mae_seok/223373229427">🔗 프로젝트 링크</a></p>
+    </li>
+    <li>
+      <strong>웹툰 실사화 배우 추천 시스템</strong>
+      <p>[2023.11.11 ~ 2024.01.27]</p>
+      <p>설명: 웹툰 원작 미디어의 캐스팅을 위해, 각 캐릭터에 적합한 배우를 추천하는 시스템</p>
+      <p>사용 모델: ViT</p>
+      <p><a href="https://github.com/maeseok/Webtoon-live-action-actor-recommendation-system">🔗 프로젝트 링크</a></p>
+    </li>
+    <li>
+      <strong>한국 증시와 미국 증시의 상관성 분석</strong>
+      <p>[2023.05.03 ~ 2023.07.02]</p>
+      <p>설명: 개인 프로젝트로 한국 증시와 미국 증시와의 상관성 분석을 다변량 시계열 모델을 통해 진행</p>
+      <p>사용 모델: VECM, VAR</p>
+      <p><a href="https://github.com/maeseok/Data-toyproject">🔗 프로젝트 링크</a></p>
+    </li>
+    <li>
+      <strong>주식 시세 조회 및 포트폴리오 웹 서비스</strong>
+      <p>[2021.12.06 ~ 2022.04.27]</p>
+      <p>설명: 개인 프로젝트로 flask와 mongodb 및 데이터 시각화를 통한 웹 서비스 구현</p>
+      <p>기술 스택: Python, Flask, Django, mongodb, matplotlib, seaborn</p>
+      <p><a href="https://github.com/maeseok/Finacne_portfolio_service">🔗 프로젝트 링크</a></p>
+    </li>
+  </ul>
+</div>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
