@@ -172,28 +172,29 @@
 <h3 align="left">⭐ About me ⭐</h3>
 
 <!-- Contact -->
-<div align="left">
+<div align="left" style="margin-bottom: 10px;">
   <a href="mailto:gudtjr3638@mju.ac.kr">
-    <img src="https://img.shields.io/badge/gudtjr3638@mju.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/gudtjr3638@mju.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />&nbsp;
   </a>
   <a href="https://blog.naver.com/mae_seok">
-    <img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white" />&nbsp;
   </a>
 </div>
 
-<!-- GitHub Stats, Most Used Languages, and BOJ Badge -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<!-- Stats, Languages, BOJ Badge -->
+<div style="display: flex; justify-content: flex-start; gap: 10px; align-items: center; flex-wrap: nowrap;">
   <!-- GitHub Stats -->
   <div>
-    <img width="300px" src="https://github-readme-stats.vercel.app/api?username=maeseok&show_icons=true&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api?username=maeseok&show_icons=true&theme=default" height="150px" />
   </div>
   <!-- Most Used Languages -->
   <div>
-    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeseok&layout=compact&langs_count=4&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeseok&layout=compact&langs_count=4&theme=default" height="150px" />
   </div>
   <!-- BOJ Badge -->
   <div>
-    <img width="300px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs1144" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs1144" height="150px" />
   </div>
 </div>
+
 
