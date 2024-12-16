@@ -185,9 +185,10 @@
     <img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white" />&nbsp;
   </a>
   <a href="https://github.com/maeseok">
-    <img src="https://komarev.com/ghpvc/?username=maeseok&label=Visitors&color=blue&style=flat-square" />&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=maeseok&label=Total%20Visitors&color=blue&style=flat-square" />&nbsp;
   </a>
 </div>
+
 
 
 <!-- GitHub Stats, Languages, BOJ Badge in One Row -->
