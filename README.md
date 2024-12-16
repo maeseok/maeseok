@@ -181,20 +181,14 @@
   </a>
 </div>
 
-<!-- Stats, Languages, BOJ Badge -->
-<div style="display: flex; justify-content: flex-start; gap: 10px; align-items: center; flex-wrap: nowrap;">
+<!-- GitHub Stats, Languages, BOJ Badge in One Row -->
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 20px;">
   <!-- GitHub Stats -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=maeseok&show_icons=true&theme=default" height="150px" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=maeseok&show_icons=true&theme=default" style="width: 32%; min-width: 250px; height: auto;" />
+
   <!-- Most Used Languages -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeseok&layout=compact&langs_count=4&theme=default" height="150px" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeseok&layout=compact&langs_count=4&theme=default" style="width: 32%; min-width: 250px; height: auto;" />
+
   <!-- BOJ Badge -->
-  <div>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs1144" height="150px" />
-  </div>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs1144" style="width: 32%; min-width: 250px; height: auto;" />
 </div>
-
-
