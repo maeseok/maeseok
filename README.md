@@ -172,17 +172,8 @@
 <br>
 
 <!-- About Me -->
-<h3 align="center">✨ About Me ✨</h3>
-<div align="center">
-  <img width="800px" src="https://github.com/maeseok/maeseok/blob/master/logo_unscreen.gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=maeseok&show_icons=true&theme=radical" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" /> -->
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs1144" />
-</div>
-
-<!-- Contact -->
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+<h3 align="left">⭐ About me ⭐</h3>
+<div align="left">
   <a href="mailto:gudtjr3638@mju.ac.kr">
     <img
       src="https://img.shields.io/badge/gudtjr3638@mju.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp;
@@ -191,6 +182,27 @@
     <img
       src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp;
   </a>
+</div>
+<div align="left">
+  <a href="https://www.notion.so/">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
+  </a>
+  <a href="https://velog.io/">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=maeseok&show_icons=true&theme=default" />
+  
+  <!-- Most Used Languages -->
+  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeseok&layout=compact&langs_count=4&theme=default" />
+</div>
+
+<!-- Badge -->
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs1144" />
 </div>
 
 
