@@ -76,7 +76,7 @@
     <img
       src="https://img.shields.io/badge/gudtjr3638@mju.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
   </a>
-  <a href="https://blog.naver.com/maeseok">
+  <a href="https://blog.naver.com/mae_seok">
     <img
       src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
