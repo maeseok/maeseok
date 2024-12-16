@@ -78,7 +78,7 @@
 <br>
 <!-- Certifications -->
 <h3 align="left">📜 Certifications 📜</h3>
-<table>
+<table style="width: 100%; margin-left: 0; text-align: left;">
   <tr>
     <td><strong>네트워크관리사 2급</strong></td>
     <td>ICQA (2020.07.07)</td>
@@ -96,6 +96,7 @@
     <td>한국데이터산업진흥원 (2023.04.14)</td>
   </tr>
 </table>
+
 
 <!-- Projects -->
 <h3 align="left">📂 Projects 📂</h3>
