@@ -78,8 +78,8 @@
 <br>
 <!-- Certifications -->
 <h3 align="left">📜 Certifications 📜</h3>
-<div style="text-align: left;">
-  <table style="width: 100%; margin: 0;">
+<div style="margin-left: 0;">
+  <table style="width: 100%; margin-left: 0;">
     <tr>
       <td><strong>네트워크관리사 2급</strong></td>
       <td>ICQA (2020.07.07)</td>
@@ -98,6 +98,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
