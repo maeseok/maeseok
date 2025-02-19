@@ -116,6 +116,13 @@
   </thead>
   <tbody>
     <tr>
+      <td><strong>RAG를 활용한 꼬꼬무 페르소나 챗봇</strong></td>
+      <td>[2024.12.23 ~ 2025.02.22]</td>
+      <td>참여형 스토리텔링 방식을 활용하는 꼬꼬무 스타일의 RAG 기반 챗봇 개발</td>
+      <td>LGAI, all-MiniLM-L6-v2 등 4개</td>
+      <td><a href="https://github.com/maeseok/Rag-kokkomu-joseon-chatbot">링크</a></td>
+    </tr>
+    <tr>
       <td><strong>AI 면접 컨설턴트</strong></td>
       <td>[2024.09.04 ~ 2024.12.04]</td>
       <td>음성 감정 분석, 답변 구성 평가 등 8가지 피드백을 제공하는 서비스 개발</td>
