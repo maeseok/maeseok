@@ -137,7 +137,7 @@
       <td><a href="https://blog.naver.com/mae_seok/223696749859">링크</a></td>
     </tr>
     <tr>
-      <td><strong>🏆 영화 기반 도서 추천 시스템</strong></td>
+      <td><strong>🏆 마니아를 통한 영화 기반 도서 추천 시스템</strong></td>
       <td>[2024.07.13 ~ 2024.08.30]</td>
       <td>2024 도서관 데이터 활용 공모전 최우수상 - 관심있는 영화와 비슷한 도서를 추천해주는 시스템 개발</td>
       <td>GNN</td>
