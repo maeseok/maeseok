@@ -65,7 +65,7 @@
 <br>
 
 <!-- Experience -->
-<h3 align="left">💼 Career 💼</h3>
+<h3 align="left">💼 Experience 💼</h3>
 <div align="left">
   <ul>
     <li><strong>명지대학교</strong> - 정보통신공학과 (2019.03 ~ 2025.06)<br></li>
