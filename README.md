@@ -64,7 +64,7 @@
 
 <br>
 
-<!-- Career -->
+<!-- Experience -->
 <h3 align="left">💼 Career 💼</h3>
 <div align="left">
   <ul>
