@@ -202,8 +202,8 @@
 
 <!-- Contact -->
 <div align="left" style="margin-bottom: 10px;">
-  <a href="mailto:gudtjr3638@mju.ac.kr">
-    <img src="https://img.shields.io/badge/gudtjr3638@mju.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />&nbsp;
+  <a href="mailto:gudtjr6729@gmail.com">
+    <img src="https://img.shields.io/badge/gudtjr6729@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />&nbsp;
   </a>
   <a href="https://blog.naver.com/mae_seok">
     <img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white" />&nbsp;
