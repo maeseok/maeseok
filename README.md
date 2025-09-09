@@ -68,10 +68,11 @@
 <h3 align="left">💼 Experience 💼</h3>
 <div align="left">
   <ul>
-    <li><strong>명지대학교</strong> - 정보통신공학과 (2019.03 ~ 2025.06)<br></li>
+    <li><strong>OO대학교</strong> - 정보통신공학과 (2019.03 ~ 2025.08)<br></li>
     <li><strong>국방통합데이터센터(DIDC)</strong> - 정보보호병 (2020.11.30 ~ 2022.05.29)<br></li>
     <li><strong>TAVE</strong> - 12기 데이터분석 (2023.09.02 ~ 2024.01.27)<br></li>
-    <li><strong>BITAMIN</strong> - 13기 (2024.01.20 ~ 2025.02.22)<br></li>
+    <li><strong>BITAmin</strong> - 13기 (2024.01.20 ~ 2025.02.22)<br></li>
+    <li><strong>네이버 부스트캠프 AI TECH</strong> - 8기 (2025.09.01 ~ )<br></li>
   </ul>
 </div>
 
@@ -96,6 +97,15 @@
       <td><strong>SQL 개발자 (SQLD)</strong></td>
       <td>한국데이터산업진흥원 (2023.04.14)</td>
     </tr>
+    <tr>
+      <td><strong>정보처리기사</strong></td>
+      <td>한국산업인력공단 (2025.06.13)</td>
+    </tr>
+    <tr>
+      <td><strong>빅데이터분석기사</strong></td>
+      <td>한국데이터산업진흥원 (2025.07.11)</td>
+    </tr>
+    
   </table>
 </div>
 
