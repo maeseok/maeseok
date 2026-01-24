@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/matplotlib-336699?style=for-the-badge&logo=matplotlib&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/seaborn-39A6DF?style=for-the-badge&logoColor=white" />&nbsp;
   <br>
-  <img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/statsmodels-0062C7?style=for-the-badge&logoColor=white" />&nbsp;
 </div>
@@ -36,8 +35,6 @@
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
   <br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
@@ -72,7 +69,7 @@
     <li><strong>국방통합데이터센터(DIDC)</strong> - 정보보호병 (2020.11.30 ~ 2022.05.29)<br></li>
     <li><strong>TAVE</strong> - 12기 데이터분석 (2023.09.02 ~ 2024.01.27)<br></li>
     <li><strong>BITAmin</strong> - 13기 (2024.01.20 ~ 2025.02.22)<br></li>
-    <li><strong>네이버 부스트캠프 AI TECH</strong> - 8기 (2025.09.01 ~ )<br></li>
+    <li><strong>네이버 부스트캠프 AI TECH</strong> - 8기 NLP (2025.09.01 ~ 2026.02.12)<br></li>
   </ul>
 </div>
 
@@ -125,6 +122,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><strong>수능형 문제 풀이 모델 생성</strong></td>
+      <td>[2025.12.17 ~ 2026.01.06]</td>
+      <td>리더보드 환경에서 수능의 국어, 사회 영역과 비슷한 문제를 풀이하는 모델 개발을 위한 실험</td>
+      <td>unsloth, Qwen, RAG, CoT, QLoRA</td>
+      <td><a href="https://github.com/boostcampaitech8/pro-nlp-generationfornlp-nlp-07/tree/lhs-30">링크</a></td>
+    </tr>
     <tr>
       <td><strong>RAG를 활용한 꼬꼬무 페르소나 챗봇</strong></td>
       <td>[2024.12.23 ~ 2025.02.22]</td>
