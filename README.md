@@ -12,10 +12,8 @@
   <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/numpy-4d77cf?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/opencv-11557C?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;
   <br>
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/matplotlib-336699?style=for-the-badge&logo=matplotlib&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/seaborn-39A6DF?style=for-the-badge&logoColor=white" />&nbsp;
@@ -123,6 +121,13 @@
   </thead>
   <tbody>
     <tr>
+      <td><strong>Mind Gym</strong></td>
+      <td>[2026.01.07 ~ 2026.02.09]</td>
+      <td>대인관계 회복을 위한 AI 롤플레잉 코치</td>
+      <td>LangGraph, unsloth, LoRA, GCP, React, FastAPI</td>
+      <td><a href="https://github.com/boostcampaitech8/pro-nlp-finalproject-nlp-07">링크</a></td>
+    </tr>
+    <tr>
       <td><strong>수능형 문제 풀이 모델 생성</strong></td>
       <td>[2025.12.17 ~ 2026.01.06]</td>
       <td>리더보드 환경에서 수능의 국어, 사회 영역과 비슷한 문제를 풀이하는 모델 개발을 위한 실험</td>
@@ -218,12 +223,6 @@
 
 <!-- GitHub Stats, Languages, BOJ Badge in One Row -->
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 20px;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=maeseok&show_icons=true&theme=default" style="width: 32%; min-width: 250px; height: auto;" />
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeseok&layout=compact&langs_count=4&theme=default" style="width: 32%; min-width: 250px; height: auto;" />
-
   <!-- BOJ Badge -->
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs1144" style="width: 32%; min-width: 250px; height: auto;" />
 </div>
